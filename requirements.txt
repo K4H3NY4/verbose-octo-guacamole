@@ -1,3 +1,2 @@
-json
-requests
-socket
+requests==2.28.1
+
